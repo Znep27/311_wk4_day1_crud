@@ -1,3 +1,7 @@
+CREATE DATABASE crud;
+
+USE crud;
+
 DROP TABLE IF EXISTS usersContact, usersAddress, users;
 
 CREATE TABLE users (
